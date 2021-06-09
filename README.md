@@ -3,6 +3,8 @@
 </p>
 <br>
 
+<hr>
+
 <h1 align="center">Hi 👋, I'm Uday Chugh</h1>
 <h3 align="center">A passionate developer from India</h3>
 
@@ -34,4 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=udaychugh&show_icons=true&locale=en&theme=chartreuse-dark" alt="udaychugh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaychugh&" alt="udaychugh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udaychugh&theme=chartreuse-dark" alt="udaychugh" /></p>
