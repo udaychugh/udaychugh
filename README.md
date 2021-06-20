@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://elements-video-cover-images-0.imgix.net/files/389dcae0-112a-4f78-acaf-08ade13641d1/inline_image_preview.jpg?auto=compress&crop=edges&fit=crop&fm=jpeg&h=800&w=1200&s=830af9657a291d37c74aa676e95b4d02" height="300"/>
+  <img src="https://drive.google.com/file/d/18i1L_XQ02j8fnIRDZCtLaZAybLdpNIZb/view?usp=drivesdk?auto=compress&crop=edges&fit=crop&fm=jpeg&h=800&w=1200&s=830af9657a291d37c74aa676e95b4d02" height="300"/>
 </p>
 <br>
 
