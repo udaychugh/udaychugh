@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lh6.googleusercontent.com/xqB7OSkoXaTg7s2VHcEJ4a5IZ7LyM8pYGVz41ZqlUXpI7UGMBVwK6rD-i3ADFhmbThSKaBdtn7uHw7pCRoZ8=w1600-h762-rw?auto=compress&crop=edges&fit=crop&fm=jpeg&h=800&w=1200&s=830af9657a291d37c74aa676e95b4d02" height="300"/>
+  <img src="https://raw.githubusercontent.com/udaychugh/udaychugh/main/files/WELCOME%20TO%20MY%20GITHUB%20(2).png?auto=compress&crop=edges&fit=crop&fm=jpeg&h=800&w=1200&s=830af9657a291d37c74aa676e95b4d02" height="300"/>
 </p>
 <br>
 
