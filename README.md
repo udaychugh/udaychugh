@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaychugh&label=Profile%20views&color=0e75b6&style=flat" alt="udaychugh" /> </p>
 
-- 🤖 I’m currently learning **Artificial Intelligence**
+- 🤖 I’m currently exploring **New Technologies**
 
 - 👨‍💻 All of my projects are available at [https://udaychugh.github.io/](https://udaychugh.github.io/)
 
